@@ -1,0 +1,21 @@
+/* Global style resets */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Background color for the body */
+.bg-dark {
+    background-color: #728af2;
+}
+
+/* Margin-top for the card */
+.mt-50 {
+    margin-top: 50px;
+}
+
+/* Canvas border styling (not used in the current HTML) */
+#canvas {
+    border: 2px solid black;
+}
